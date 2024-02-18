@@ -5,7 +5,7 @@
 
 ### Technical Skills:
 - #### Languages:
-   C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL
+C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL
 - #### J2EE Technologies:
   JDBC, JSP, Spring, Hibernate, Java Beans, JDBC, XML, DOM, JNDI, JPA, Multi- -- Threading, JavaScript, Exception Handling.
 - #### Frameworks:
