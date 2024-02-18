@@ -1,5 +1,6 @@
 title: Srilekha Doosa
-#show downloads: true
+description: text below image
 logo: /assets/img/photo.jpg
 show_downloads: true
+
 theme: jekyll-theme-minimal 
