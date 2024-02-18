@@ -4,8 +4,7 @@
 - In cloud and DevOps, I've integrated AWS, configured Docker with Maven, and utilized CloudFormation. Proficient in CICD pipelines (Jenkins) and OpenShift, I prioritize maintainable code, integration testing, and design consistency. Strong communication and problem-solving skills complement my quick learning and analytical mindset.
 
 ### Technical Skills:
-- #### Languages:
-C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL
+- #### Languages: **C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL**
 - #### J2EE Technologies:
   JDBC, JSP, Spring, Hibernate, Java Beans, JDBC, XML, DOM, JNDI, JPA, Multi- -- Threading, JavaScript, Exception Handling.
 - #### Frameworks:
