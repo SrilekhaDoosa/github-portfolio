@@ -4,29 +4,18 @@
 - In cloud and DevOps, I've integrated AWS, configured Docker with Maven, and utilized CloudFormation. Proficient in CICD pipelines (Jenkins) and OpenShift, I prioritize maintainable code, integration testing, and design consistency. Strong communication and problem-solving skills complement my quick learning and analytical mindset.
 
 ### Technical Skills:
-- #### Languages: **C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL**
-- #### J2EE Technologies:
-  JDBC, JSP, Spring, Hibernate, Java Beans, JDBC, XML, DOM, JNDI, JPA, Multi- -- Threading, JavaScript, Exception Handling.
-- #### Frameworks:
-  Apache Kafka, Spring, Hibernate, Junit, TestNg, Mockito.
-- #### Web Technologies:
-   HTML 5, JavaScript (ES/ ES 6), Angular-JS 1.5, Angular 6/7/8, Typescript, CSS3, Bootstrap.
-- #### Cloud Technologies:
-  Amazon Web Services (AWS), Microsoft Azure, Pivotal Cloud Foundry, Docker
-- #### Databases:
-  Oracle 11g/10g/9i/7.x, DB2, POSTGRESQL, MongoDB, Couchbase, MySQL, SQL Server, H2
-- #### SQL Clients:
-  SQL Developer, MySQL, SQL Server Management Studio
-- #### Web & Application Servers:
-  Web logic, IBM Websphere, Apache Tomcat, JBoss
-- #### Developer Tools (IDE):
-   Eclipse, NetBeans, IntelliJ, MySQL Workbench, MongoDB Compass
-- #### Tools:
-   Tortoise SVN, CVS, VSS, GitHub, JIRA, Bugzilla, Apache Ant, Apache Log4j
-- #### Operating Systems:
-   Windows XP/7, Linux/Ubuntu, Mac
-- #### Methodologies:
-   Agile, Waterfall, TDD
+- **Languages**:  #### C, C++, JAVA (J2se1.8/1,7/1.6, J2EE1.5/1.4), SQL**
+- **J2EE Technologies**: #### JDBC, JSP, Spring, Hibernate, Java Beans, JDBC, XML, DOM, JNDI, JPA, Multi- -- Threading, JavaScript, Exception Handling.
+- **Frameworks**: #### Apache Kafka, Spring, Hibernate, Junit, TestNg, Mockito.
+- **Web Technologies**: #### HTML 5, JavaScript (ES/ ES 6), Angular-JS 1.5, Angular 6/7/8, Typescript, CSS3, Bootstrap.
+- **Cloud Technologies**: #### Amazon Web Services (AWS), Microsoft Azure, Pivotal Cloud Foundry, Docker
+- **Databases**: #### Oracle 11g/10g/9i/7.x, DB2, POSTGRESQL, MongoDB, Couchbase, MySQL, SQL Server, H2
+- **SQL Clients**: #### SQL Developer, MySQL, SQL Server Management Studio
+- **Web & Application Servers**: #### Web logic, IBM Websphere, Apache Tomcat, JBoss
+- **Developer Tools (IDE)**: #### Eclipse, NetBeans, IntelliJ, MySQL Workbench, MongoDB Compass
+- **Tools**: #### Tortoise SVN, CVS, VSS, GitHub, JIRA, Bugzilla, Apache Ant, Apache Log4j
+- **Operating Systems**: #### Windows XP/7, Linux/Ubuntu, Mac
+- **Methodologies**: #### Agile, Waterfall, TDD
   
 ## WORK EXPERIENCE:
 
