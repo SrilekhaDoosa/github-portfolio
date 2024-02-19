@@ -2,5 +2,9 @@ title: Srilekha Doosa
 description: text below image
 logo: /assets/img/photo.jpg
 show_downloads: true
+navigation:
+  - title: LinkedIn
+    url: /https://www.linkedin.com/in/srilekha-d-6163682b2/
+
 
 theme: jekyll-theme-minimal 
