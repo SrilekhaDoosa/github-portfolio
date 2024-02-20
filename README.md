@@ -48,22 +48,24 @@ Implemented DAO CRUD methods using Hibernate and Spring framework, designed and 
 - Deployed the application on the JBoss Application Server, utilized My Eclipse and Subversioning (SVN) for release management. Engaged in production support, monitoring server logs, foreseeing potential issues, and escalating to higher levels when necessary.
 
 ## Projects 
-### AMORE- A college Dating Application:
+### [AMORE](https://github.com/NARESHHH/CS546_group39_final_project) - A college Dating Application:
 ![logo1-removebg-preview](https://github.com/SrilekhaDoosa/github-portfolio/assets/104177635/57fc7220-8cdb-4871-b133-350dddef3c0d)
-Aamore is a college dating website exclusive for college students
-● Developed Server side application using NodeJS, ExpressJS, MongoDB.
-● Designed and developed Frontend application in HTML, CSS, JS, Handlebars, Bootstrap
-● Implemented recommendations leveraging the power of 2d-sphere geo index and text index of MongoDB
-● Utilized MongoDB aggregation lookups for cross-collection queries
 
-### CORSTASH
+- Aamore is a college dating website exclusive for college students
+- Developed Server side application using NodeJS, ExpressJS, MongoDB.
+- Designed and developed Frontend application in HTML, CSS, JS, Handlebars, Bootstrap
+- Implemented recommendations leveraging the power of 2d-sphere geo index and text index of MongoDB
+- Utilized MongoDB aggregation lookups for cross-collection queries
+
+### [CORSTASH](https://github.com/GodsScion/CS554-Project)
 ![logo](https://github.com/SrilekhaDoosa/github-portfolio/assets/104177635/bcecf6e9-68fc-4a31-8b1f-1e992bfbf545)
-Developed and deployed the MERN Stack course review web application on an EC2 instance, ensuring high availability and scalability.
-● Utilized Redis caching, React, and Redux for optimal performance and user experience.
-● Implemented real-time user communication through Socket.IO within the Discussions feature.
-● Integrated Firebase for user authentication and real-time database functionality.
-● Implemented error handling, testing, and documentation to maintain project reliability.
-● Collaborated with a team and showcased the project on GitHub for version control and collaboration.
+
+- Developed and deployed the MERN Stack course review web application on an EC2 instance, ensuring high availability and scalability.
+- Utilized Redis caching, React, and Redux for optimal performance and user experience.
+- Implemented real-time user communication through Socket.IO within the Discussions feature.
+- Integrated Firebase for user authentication and real-time database functionality.
+- Implemented error handling, testing, and documentation to maintain project reliability.
+- Collaborated with a team and showcased the project on GitHub for version control and collaboration.
 
 
 
