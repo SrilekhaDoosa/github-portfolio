@@ -19,7 +19,7 @@
   
 ## WORK EXPERIENCE:
 
-### Client: Data Economy, Charlotte, NC                                                  		                           April 2023 – Till Date
+#### Client: Data Economy, Charlotte, NC                                                  		                       *April 2023 – Till Date*
 #### Role:Full Stack Developer
 - Involved in all phases of SDLC from designing till deploying the application and worked in Agile Methodology
 - Proficient in developing software applications using JAVA, J2EE, JSP, and XML. Extensive use of Core Spring Framework for Dependency Injections, including SpringMVC for REST API's and Spring Boot for microservices.
@@ -27,7 +27,7 @@
 - Designed user interface screens using HTML5, CSS3, JavaScript, Angular 6, and Bootstrap. Implemented Angular validations, routing, and created various forms using data-driven and template-driven approaches.
 - Deployed Web Applications using Maven, Jenkins for continuous integration, and configured CloudFormation templates for AWS infrastructure. Utilized Docker deployment pipelines, Kafka for streaming, and integrated Elastic search and Couchbase for logging and analytics.
 
-### Client: C2S Technologies, Seattle,WA                                                                                  Mar 2022 - Mar 2023
+#### Client: C2S Technologies, Seattle,WA                                                                               *Mar 2022 - Mar 2023*
 #### Role:Full Stack Java Developer
 
 - Demonstrated problem-solving skills by resolving complex issues during development, considering multiple business and technology factors. Investigated emerging technologies and developed prototypes to showcase their applicability to the product roadmap.
@@ -36,7 +36,7 @@
 Implemented DAO CRUD methods using Hibernate and Spring framework, designed and developed REST-based Microservices with Spring Boot. Conducted unit testing using Mockito and JUnit, and tested REST APIs in Spring-Controller with tools like Postman.
 - Engaged in the entire DevOps lifecycle, including using Maven for build and deployment, Jenkins for continuous integration, log4j for logging, and configuring Jenkins for builds in AWS environment. Utilized JIRA for issue tracking, GIT for version control, Eclipse IDE for development, and Tomcat server for application deployment.
   
-### Client: Waystar, Louisville, KY                                         		                                          Jan 2021 - Feb 2022
+#### Client: Waystar, Louisville, KY                                         		                                        *Jan 2021 - Feb 2022*
 #### Role: Sr.JAVA Developer
 - Contributed to the full software development lifecycle using the Agile model, actively participating in daily SCRUM meetings. Interacted with business owners and UI developers to understand requirements and visualize product functionalities.
 - Developed front-end code using JavaScript Framework, AngularJS, and jQuery to retrieve data from back-end RESTful servers. Implemented RESTful APIs using Spring Framework, designed controllers, and applied J2EE design patterns for efficient application development.
@@ -50,6 +50,23 @@ Implemented DAO CRUD methods using Hibernate and Spring framework, designed and 
 ## Projects 
 ### AMORE- A college Dating Application:
 ![logo1-removebg-preview](https://github.com/SrilekhaDoosa/github-portfolio/assets/104177635/57fc7220-8cdb-4871-b133-350dddef3c0d)
+Aamore is a college dating website exclusive for college students
+● Developed Server side application using NodeJS, ExpressJS, MongoDB.
+● Designed and developed Frontend application in HTML, CSS, JS, Handlebars, Bootstrap
+● Implemented recommendations leveraging the power of 2d-sphere geo index and text index of MongoDB
+● Utilized MongoDB aggregation lookups for cross-collection queries
+
+### CORSTASH
+![logo](https://github.com/SrilekhaDoosa/github-portfolio/assets/104177635/bcecf6e9-68fc-4a31-8b1f-1e992bfbf545)
+Developed and deployed the MERN Stack course review web application on an EC2 instance, ensuring high availability and scalability.
+● Utilized Redis caching, React, and Redux for optimal performance and user experience.
+● Implemented real-time user communication through Socket.IO within the Discussions feature.
+● Integrated Firebase for user authentication and real-time database functionality.
+● Implemented error handling, testing, and documentation to maintain project reliability.
+● Collaborated with a team and showcased the project on GitHub for version control and collaboration.
+
+
+
 
 
 
