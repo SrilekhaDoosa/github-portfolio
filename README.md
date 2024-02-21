@@ -19,16 +19,14 @@
   
 ## WORK EXPERIENCE:
 
-#### Client: Data Economy, Charlotte, NC                                                  		                       *April 2023 – Till Date*
-#### Role:Full Stack Developer
+#### Client: Data Economy, Charlotte, NC. (*April 2023 – Till Date*)                                                  		                   #### Role:Full Stack Developer
 - Involved in all phases of SDLC from designing till deploying the application and worked in Agile Methodology
 - Proficient in developing software applications using JAVA, J2EE, JSP, and XML. Extensive use of Core Spring Framework for Dependency Injections, including SpringMVC for REST API's and Spring Boot for microservices.
 - Worked with both relational (db2) and non-relational databases (Couchbase), developing Restful web-services for JSON exchange between UI and server-side using HTTP protocol.
 - Designed user interface screens using HTML5, CSS3, JavaScript, Angular 6, and Bootstrap. Implemented Angular validations, routing, and created various forms using data-driven and template-driven approaches.
 - Deployed Web Applications using Maven, Jenkins for continuous integration, and configured CloudFormation templates for AWS infrastructure. Utilized Docker deployment pipelines, Kafka for streaming, and integrated Elastic search and Couchbase for logging and analytics.
 
-#### Client: C2S Technologies, Seattle,WA                                                                               *Mar 2022 - Mar 2023*
-#### Role:Full Stack Java Developer
+#### Client: C2S Technologies, Seattle,WA. (*Mar 2022 - Mar 2023*)                                                                           #### Role:Full Stack Java Developer
 
 - Demonstrated problem-solving skills by resolving complex issues during development, considering multiple business and technology factors. Investigated emerging technologies and developed prototypes to showcase their applicability to the product roadmap.
 - Implemented an efficient Agile Scrum methodology for development, utilizing core Java, J2EE technologies (Servlets, JDBC, JSP, Spring, Spring Boot), and Microservices architecture. Embraced Continuous Integration and Continuous Deployment (CI/CD) practices using Jenkins and Docker.
@@ -36,13 +34,13 @@
 Implemented DAO CRUD methods using Hibernate and Spring framework, designed and developed REST-based Microservices with Spring Boot. Conducted unit testing using Mockito and JUnit, and tested REST APIs in Spring-Controller with tools like Postman.
 - Engaged in the entire DevOps lifecycle, including using Maven for build and deployment, Jenkins for continuous integration, log4j for logging, and configuring Jenkins for builds in AWS environment. Utilized JIRA for issue tracking, GIT for version control, Eclipse IDE for development, and Tomcat server for application deployment.
   
-#### Client: Waystar, Louisville, KY                                         		                                        *Jan 2021 - Feb 2022*
-#### Role: Sr.JAVA Developer
+#### Client: Waystar, Louisville, KY. (*Jan 2021 - Feb 2022*)                                          		                                   #### Role: Sr.JAVA Developer
 - Contributed to the full software development lifecycle using the Agile model, actively participating in daily SCRUM meetings. Interacted with business owners and UI developers to understand requirements and visualize product functionalities.
 - Developed front-end code using JavaScript Framework, AngularJS, and jQuery to retrieve data from back-end RESTful servers. Implemented RESTful APIs using Spring Framework, designed controllers, and applied J2EE design patterns for efficient application development.
 - Utilized tools like Maven for building and managing dependencies, GIT for version control. Implemented logging using log4j and developed test cases using the Mockito framework on Junit and TestNG runners. Developed and optimized stored procedures and triggers for efficient Oracle database interaction.
   
-### CLIENT FOUR:
+#### Client: Techigai, India. (*Sept 2018–Dec 2020*)
+#### ROLE: Java Developer
 - Led the design and development of a web application using the Spring Framework. Configured the application using Spring Configuration files, wrote Action Classes, and Form Bean Classes.
 - Performed MySQL coding for web applications, addressing defects collaboratively with QA, Business, and Architects. Improved database performance through MySQL configuration changes, multiple instances, and hardware upgrades.
 - Deployed the application on the JBoss Application Server, utilized My Eclipse and Subversioning (SVN) for release management. Engaged in production support, monitoring server logs, foreseeing potential issues, and escalating to higher levels when necessary.
@@ -58,6 +56,7 @@ Implemented DAO CRUD methods using Hibernate and Spring framework, designed and 
 - Utilized MongoDB aggregation lookups for cross-collection queries
 
 ### [CORSTASH](https://github.com/GodsScion/CS554-Project)
+
 ![logo](https://github.com/SrilekhaDoosa/github-portfolio/assets/104177635/bcecf6e9-68fc-4a31-8b1f-1e992bfbf545)
 
 - Developed and deployed the MERN Stack course review web application on an EC2 instance, ensuring high availability and scalability.
