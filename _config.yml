@@ -1,10 +1,9 @@
 title: Srilekha Doosa
-description: text below image
 logo: /assets/img/tempImageUTkaPN-photoaidcom-cropped.jpg
 show_downloads: true
 navigation:
-  - title: LinkedIn
-    url: /https://www.linkedin.com/in/srilekha-d-6163682b2/
+   title: LinkedIn
+    url: /https://www.linkedin.com/in/srilekha-doosa-6163682b2/
 
 
 theme: jekyll-theme-minimal 
