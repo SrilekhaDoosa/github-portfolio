@@ -1,6 +1,7 @@
-## FULL STACK ENGINEER
-Results-driven Full Stack Engineer with 3+ years of experience building secure, cloud-native fintech applications using Node.js, Express.js, React, and AWS. Proficient in microservices, payment API integration, and distributed systems, with strong knowledge of compliance-driven development (KYC, PCI-DSS, MFA). Passionate about delivering reliable, high-performance financial software and collaborating in fast-paced, product-focused teams.
-
+## BACKEND DEVELOPER
+-I’m a results-driven Backend Developer with over 3 years of experience designing and developing secure, cloud-native fintech applications using Node.js, Express.js, React, and AWS.
+-I specialize in building scalable microservices, payment API integrations, and distributed systems that meet compliance standards like KYC, PCI-DSS, and MFA.
+-My passion lies in building reliable, high-performance software for financial ecosystems — delivering exceptional user experiences while ensuring security, availability, and performance.
 
 ### Technical Skills:
 - **Web Development**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, TailwindCSS, Bootstrap, Redux, Context API, RESTful APIs, GraphQL, Node.js, Express.js, Mocha, Jest, Postman, WebSockets.
@@ -18,34 +19,41 @@ Results-driven Full Stack Engineer with 3+ years of experience building secure, 
 ## WORK EXPERIENCE:
 
 #### Client: SoFi, New York, US. (*Mar 2024 - Sept 2025*)
-#### Role:Full Stack Engineer
--Contributing to a cloud-native fintech platform that enables real-time payments and stablecoin transactions for global customers.
--Developing end-to-end features using Node.js, Express.js, React, Next.js, and TypeScript, ensuring scalability and high performance.
--Designing and integrating RESTful APIs for payment workflows, KYC/AML verification, and multi-factor authentication (MFA).
--Deploying microservices on AWS ECS, Fargate, and Lambda, leveraging CI/CD pipelines with AWS CodePipeline and CloudWatch for monitoring.
--Implemented Redis caching and asynchronous message queues (Kafka/RabbitMQ), reducing API latency by 60%.
--Collaborating with cross-functional teams to align backend architecture with compliance, data security (PCI-DSS, GDPR), and product goals.
-**Tech Stack**: Node.js, Express.js, React, Next.js, TypeScript, AWS (ECS, Fargate, Lambda, S3, CloudWatch), Redis, Kafka, Docker, MongoDB
+#### Role: Backend Developer
+-Designed and implemented PCI-DSS compliant fintech platforms handling high-volume transactions.
+-Architected microservices for banking and wallet features with high reliability and uptime.
+-Automated deployment pipelines (AWS CodePipeline, CodeBuild, CodeDeploy), cutting manual effort by 70%.
+-Leveraged Athena and Glue for large-scale financial analytics, improving query performance by 60%.
+-Integrated API Gateway and ALB to handle millions of daily API calls for real-time payments and KYC checks.
+-Deployed serverless Lambda functions, reducing infrastructure cost by 15%.
+-Built Redis-based caching for sub-millisecond transaction lookups.
+-Developed secure authentication microservice with MFA and OAuth 2.0 using TypeScript.
+-Mentored junior developers and led code review sessions.
+
+**Tech Stack**: Node.js, Express.js, MongoDB, AWS (ECS, Fargate, Lambda)
 
 #### Client: Colortokens INC, Hyderabad, India. (*Dec 2020 - Dec 2021*)
 #### Role:Full Stack Developer
--Built and maintained scalable backend systems for a digital payments and analytics platform serving fintech clients.
--Developed microservices architecture using Node.js, Express.js, and MongoDB, handling 1M+ transaction records efficiently.
--Designed and optimized REST APIs for merchant onboarding, transaction logging, and reporting modules.
--Integrated payment gateways (Stripe, Razorpay) and implemented secure authentication flows using JWT and OAuth2.
--Deployed services via Docker and AWS EC2, automating releases with CI/CD pipelines to improve deployment reliability.
--Collaborated with QA and DevOps teams to monitor performance, reducing API response times by 45%.
-**Tech Stack**: Node.js, Express.js, MongoDB, AWS EC2, Docker, JWT, OAuth2, Redis, Postman, GitHub Actions
+-Architected TypeScript-based backend services optimized for performance and scalability.
+-Designed and deployed RESTful APIs for user management, analytics, and reporting.
+-Integrated Redis, RabbitMQ, and Kafka to reduce API latency by 70%.
+-Implemented containerized microservices using Docker Swarm and Compose.
+-Built CI/CD pipelines using AWS ECS, Fargate, and Lambda for faster releases.
+-Enhanced security and compliance through IAM policies, VPC setup, and encryption controls.
+-Created monitoring and logging dashboards using CloudWatch and CloudTrail.
+
+**Tech Stack**: Node.js, Express.js, TypeScript, Docker, AWS
   
 #### Client: GVS IT Solutions, Hyderabad, India. (*Jan 2020 - Sept 2020*)
 #### Role: NodeJS Developer Intern
--Assisted in the development and deployment of backend services using Node.js, Express.js, and MongoDB under senior mentorship.
--Contributed to the creation of RESTful APIs supporting web and mobile applications, improving data communication efficiency.
--Implemented asynchronous processing and query optimization, enhancing backend performance for key endpoints.
--Participated in code reviews, unit testing (Mocha, Jest), and API documentation to maintain quality and consistency.
--Gained exposure to AWS EC2, S3, and Docker, supporting environment setup and backend deployment.
+-Contributed to backend development using Node.js and Express.js.
+-Developed RESTful APIs and collaborated with frontend teams to build full-stack modules.
+-Implemented asynchronous workflows to improve API response times.
+-Secured endpoints using JWT and OAuth 2.0.
+-Deployed applications on AWS EC2 and Lambda, ensuring scalability.
+-Introduced Docker-based environments for consistent deployments.
 
-**Tech Stack**: Node.js, Express.js, MongoDB, AWS EC2, Docker, Postman, Mocha, Jest, Git
+**Tech Stack**: Node.js, Express.js, MongoDB, AWS
   
 
 ## Projects 
