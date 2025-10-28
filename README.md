@@ -18,7 +18,7 @@
   
 ## WORK EXPERIENCE:
 
-#### Client: SoFi, New York, US. (*Mar 2024 - Sept 2025*)
+#### Client: Affirm, New York, US. (*Mar 2024 - Sept 2025*)
 #### Role: Backend Developer
 -Designed and implemented PCI-DSS compliant fintech platforms handling high-volume transactions.
 -Architected microservices for banking and wallet features with high reliability and uptime.
@@ -29,7 +29,6 @@
 -Built Redis-based caching for sub-millisecond transaction lookups.
 -Developed secure authentication microservice with MFA and OAuth 2.0 using TypeScript.
 -Mentored junior developers and led code review sessions.
-
 **Tech Stack**: Node.js, Express.js, MongoDB, AWS (ECS, Fargate, Lambda)
 
 #### Client: Colortokens INC, Hyderabad, India. (*Dec 2020 - Dec 2021*)
@@ -41,7 +40,6 @@
 -Built CI/CD pipelines using AWS ECS, Fargate, and Lambda for faster releases.
 -Enhanced security and compliance through IAM policies, VPC setup, and encryption controls.
 -Created monitoring and logging dashboards using CloudWatch and CloudTrail.
-
 **Tech Stack**: Node.js, Express.js, TypeScript, Docker, AWS
   
 #### Client: GVS IT Solutions, Hyderabad, India. (*Jan 2020 - Sept 2020*)
@@ -52,7 +50,6 @@
 -Secured endpoints using JWT and OAuth 2.0.
 -Deployed applications on AWS EC2 and Lambda, ensuring scalability.
 -Introduced Docker-based environments for consistent deployments.
-
 **Tech Stack**: Node.js, Express.js, MongoDB, AWS
   
 
